@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "7000ca27-b5f7-499c-915e-74db6dafc9a4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "风魔手里剑": {
+      "ver": "1.0.4",
+      "uuid": "642a8e70-956f-4b4c-9b52-4897e72b71de",
+      "rawTextureUuid": "7000ca27-b5f7-499c-915e-74db6dafc9a4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 24,
+      "height": 24,
+      "rawWidth": 24,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
